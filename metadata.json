@@ -1,0 +1,6 @@
+{
+  "name": "Analisis Tujuan Pembelajaran (ATP) Berbasis AI",
+  "description": "Aplikasi pembantu guru untuk menyusun Alur Tujuan Pembelajaran (ATP) Kurikulum Merdeka menggunakan teknologi AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
